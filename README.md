@@ -1,7 +1,27 @@
-# SiteOficial
-A Inovare disponibiliza seu site oficial para que todos possam ter acesso ao nossas inovações enquanto organização. Estamos sempre postando novidades e fomentando o desenvolvimento sem fronteiras. Oferecendo um produto original, de qualidade e acessível. 
+# [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
 
-Sobre nós  
-A Inovare é uma startup* constituída por uma equipe de programadores, designers gráficos e arquitetos de software, focada no desenvolvimento inovador. Nosso propósito é proporcionar aos nossos clientes e parceiros soluções viáveis para seus problemas. Para tal, elaboramos soluções para as mais diversas situações do dia a dia. Temos a certeza de que uma dessas soluções é a que irá resolver o seu problema. E por mais complexo, singular, e desconhecido, o seu problema tem uma solução. Nossa visão de negócio é encontrar a solução que mais se adequa ao seu caso, ao caso da sua empresa.      
-O que fazemos? 
-A Inovare possui diversos serviços e soluções para os mais diversos problemas. Alguns desses são: criação e gerenciamento de e-commerce; manutenção e criação de sites com suporte a banco de dados; criação de blogs pessoais; implantação de sistemas que gerenciam estoques e quadro de funcionários, que padronizam serviços da empresa; criação e gerenciamento de softwares desktop, consultorias e muito mais
+[Freelancer](http://startbootstrap.com/template-overviews/freelancer/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, and a working PHP contact form.
+
+## Getting Started
+
+To begin using this template, choose one of the following options to get started:
+* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/freelancer/)
+* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-freelancer.git`
+* Fork the repo
+
+## Bugs and Issues
+
+Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-freelancer/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/freelancer/).
+
+## Creator
+
+Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
+
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+
+## Copyright and License
+
+Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/gh-pages/LICENSE) license.
